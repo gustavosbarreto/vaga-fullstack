@@ -27,6 +27,14 @@ A página de listagem dos to-dos deve permitir a inserção de novos itens, edi�
 
 **ATENÇÃO:** Já que o sistema deve suportar multiplos usuários não esqueça de vincular no banco de dados cada item de to-do ao usuário logado no sistema.
 
+Uma idéia de interface do sistema:
+
+<p align="center">
+<img src="https://almin.js.org/docs/assets/todomvc.png"/>
+</p>
+
+E sim, essa é uma screenshot do todomvc e você pode se inspirar nela, sem copiar o código. Caso você faça nós saberemos e você será desclassificado :)
+
 ## Escopo do desafio
 
 * Desenvolver os módulos de frontend e backend de forma separada
