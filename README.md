@@ -15,11 +15,24 @@ O objetivo deste desafio é avaliar o domínio do candidato no desenvolvimento f
 
 ## Desafio
 
+O desafio consiste em um to do list com suporte a multiplos usuários.
+
+O projeto deve ter três páginas:
+
+1. Login
+2. Signup
+3. Lista de to-dos
+
+A página de listagem dos to-dos deve permitir a inserção de novos itens, edição inline do item, remoção e alteração do seu status.
+
+**ATENÇÃO:** Já que o sistema deve suportar multiplos usuários não esqueça de vincular no banco de dados cada item de to-do ao usuário logado no sistema.
+
 ## Escopo do desafio
 
-* Desenvolver os módulos de frontend e backend de forma separada.
+* Desenvolver os módulos de frontend e backend de forma separada
 * O desenvolvimento do backend deve ser feito em Node.js ou Golang
 * O desenvolvimento do frontend deve ser feito com React ou Vue.js
+* O banco de dados você pode escolher entre um destes: PostgreSQL, MySQL, MongoDB ou SQlite (não esqueça que o backend deve criar a estrutura inicial do banco automaticamente)
 * Não é necessário submeter uma aplicação que cumpra cada um dos requisitos descritos, mas o que for submetido deve funcionar
 
 ## O que será avaliado
